@@ -260,10 +260,11 @@
 - [LuaN1aoAgent：鸾鸟（LuaN1ao），一款基于大语言模型、采用双图推理（P-E-R 规划-执行-反思架构）的自主认知驱动 AI 渗透测试智能体](https://github.com/SanMuzZzZz/LuaN1aoAgent)
 - [adscan：一款专注于 Linux 环境的 Active Directory 渗透测试工具，自动化执行枚举、Kerberoasting、ADCS、DCSync 等 40 多种 AD 攻击技术](https://github.com/ADScanPro/adscan)
 - [CACM：一款 Linux 权限维持与后渗透工具，支持端口扫描、进程隐藏、敏感信息搜集、多种权限维持技术及防反制/反溯源等功能](https://github.com/RuoJi6/CACM)
+- [jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)：为 Jadx 提供 MCP 扩展，使 AI 工具能够直接调用本地 Jadx 进行 APK/DEX 反编译、搜索与分析，是构建 AI 驱动逆向工作流的关键组件。
+
 
 ### 其他
 
-[jvm-http-proxy-agent：一个 JVM 代理，它为所有主要的 JVM HTTP 客户端自动强制代理 HTTP(S) 连接并信任 MitM 证书](https://github.com/httptoolkit/jvm-http-proxy-agent)
-
-[CppWeixinHunter：微信内存信息提取 c++实现。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。](https://github.com/baiyies/CppWeixinHunter)
+- [jvm-http-proxy-agent：一个 JVM 代理，它为所有主要的 JVM HTTP 客户端自动强制代理 HTTP(S) 连接并信任 MitM 证书](https://github.com/httptoolkit/jvm-http-proxy-agent)
+- [CppWeixinHunter：微信内存信息提取 c++实现。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。](https://github.com/baiyies/CppWeixinHunter)
 
