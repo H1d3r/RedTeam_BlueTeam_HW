@@ -142,6 +142,8 @@
 - [Fireman 是一个用于批量管理和检查 Linux 服务器状态的应急响应工具，支持通过 SSH 批量执行命令，快速排查可疑用户、非法外连、文件变更等安全事件。](https://github.com/liuxinyu228/fireman)
 - [Jaeger 是 Symph0nia 团队开发的 Linux 平台应急响应工具，旨在实现快速高效的安全事件检索和处理。](https://github.com/Symph0nia/Jaeger)
 - [FastWinLog 是一款集成AI辅助分析功能的Windows日志安全分析工具](https://github.com/vam876/FastWinLog)
+- [EtwSuite](https://github.com/Idov31/EtwSuite)：一个 Windows 原生的 ETW 事件分析套件，支持 Provider 浏览、元数据查看、实时事件消费、ETL 录制与离线分析，是蓝队与安全研究人员进行 Windows 事件追踪的强力工具。
+
 
 ### 红队工具
 
