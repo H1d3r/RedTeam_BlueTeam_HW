@@ -144,6 +144,7 @@
 - [FastWinLog 是一款集成AI辅助分析功能的Windows日志安全分析工具](https://github.com/vam876/FastWinLog)
 - [EtwSuite](https://github.com/Idov31/EtwSuite)：一个 Windows 原生的 ETW 事件分析套件，支持 Provider 浏览、元数据查看、实时事件消费、ETL 录制与离线分析，是蓝队与安全研究人员进行 Windows 事件追踪的强力工具。
 - [WG-Win-Check](https://github.com/SECWG/WG-Win-Check):WG-Win-Check 是一款基于原生 Win32 API 实现的轻量级的 Windows 应急响应辅助工具，目前 64 位版本大小仅 800 余Kb，旨在以轻量便捷的特性，通过多维度的系统常规排查，能够有效帮助安全人员快速识别恶意进程、可疑启动项、异常网络连接等安全风险。
+- [LastActivityView](https://www.nirsoft.net/utils/computer_activity_view.html):Computer Activity View（NirSoft 出品,又名LastActivityView）是一款支持 Windows 2000到Windows 11 的系统活动查看工具，它会收集系统日志、注册表、Prefetch、MiniDump 等来源的信息，并生成一份用户操作与系统事件的时间线。它的用途是帮助你快速了解电脑最近发生了什么，比如程序运行、文件打开、系统启动/关机、网络连接等。
 
 
 ### 红队工具
